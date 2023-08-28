@@ -2,41 +2,13 @@
 layout: framework
 sidebar: category-list
 ---
-<div class="filler">
-      
 
-  <main class="list">
-  
-    <h1>产品介绍</h1>
-    
+<div class="articles">
+  {% if page.banner == nil %}
+    {% assign banner = page.title %}
+  {% endif %}
 
-      <ul class="posts">
-        
-          <li>
-            <a class="btn" href="/posts/satellite/">
-              <p>6G 边缘云</p>
-              
-            </a>
-          </li>
-        
-          <li>
-            <a class="btn" href="/posts/arvr/">
-              <p>AR/VR 5G 边缘云</p>
-              
-            </a>
-          </li>
-        
-          <li>
-            <a class="btn" href="/posts/aiqiyi/">
-              <p>爱奇艺 5G 边缘云</p>
-              
-            </a>
-          </li>
-        
-      </ul>
- 
-    
-  </main>
-  
+  {{ content }}
 
+  {% include views/pagination.html %}
 </div>

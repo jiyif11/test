@@ -2,17 +2,38 @@
 layout: framework
 sidebar: archive-list
 ---
+   
+  <div class="wrapper">
 
-{%- if site.posts.size > 0 -%}
+  
+  
+    <h1>产品介绍</h1>
+    
 
-  {% include functions.html func='log' level='debug' msg='Get datetimes value' %}
-
-  {% assign filter = '%Y' %}
-  {% include functions.html func='get_datetimes' %}
-  {% assign datetimes = return %}
-
-  {% assign keys = datetimes | reverse %}
-  {% assign field = 'date' %}
-  {% include views/segments.html %}
-
-{%- endif -%}
+      <ul class="posts">
+        
+          <li>
+            <a href="/posts/satellite/" class="button">边缘云</a>
+          </li>
+        
+          <li>
+            <a class="btn" href="/posts/arvr/">
+              <p>AR/VR 5G 边缘云</p>
+              
+            </a>
+          </li>
+        
+          <li>
+            <a class="btn" href="/posts/aiqiyi/">
+              <p>爱奇艺 5G 边缘云</p>
+              
+            </a>
+          </li>
+        
+      </ul>
+ 
+    
+  </main>
+  
+</div>
+<main class="list">
