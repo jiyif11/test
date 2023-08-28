@@ -619,9 +619,9 @@ html {
   .page-banner-inner {
     @include vertical-center(relative);
 
-    color: $banner-text-color;
+    color: #ffffff;
     padding: 10px 5px;
-    text-shadow: 1px 1px 2px #33333355;
+    text-shadow: 1px 1px 1px #000000;
 
     & > *:first-child {
       margin: 0;
