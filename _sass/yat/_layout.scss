@@ -831,8 +831,8 @@ a:visited .post-badges .post-badge.badge-new {
   padding: 0.75em 2em;
   text-align: center;
   text-decoration: none;
-  color: $color;
-  border: 2px solid $color;
+  color: #2194E0;
+  border: 2px solid #2194E0;
   font-size: 24px;
   display: inline-block;
   border-radius: 0.3em;
@@ -852,9 +852,9 @@ a:visited .post-badges .post-badge.badge-new {
     transition: none;
   }
   &:hover {
-    background-color: $color;
+    background-color: #2194E0;
     color: #fff;
-    border-bottom: 4px solid darken($color, 10%);
+    border-bottom: 4px solid darken(#2194E0, 10%);
     &:before {
       transform: skewX(-45deg) translateX(13.5em);
      transition: all 0.5s ease-in-out;
