@@ -160,11 +160,11 @@ translate_langs:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+defaults:
+home:
+   heading: "欢迎"
+   subheading: "欢迎访问无人区科技南京有限公司！"
+   banner: "assets/images/banners/welcome.png"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
