@@ -54,7 +54,7 @@ $on-laptop:        800px !default;
 }
 
 @mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
+  font-size: 26px;
 }
 
 // Import partials.
