@@ -6,7 +6,7 @@ categories: satellite
 tags: [satellite]
 ---
 
-**产品简介：**
+# 产品简介:
 ![](https://www.opendc.cn/posts/satellite/img/info1.png)
 ![](https://www.opendc.cn/posts/satellite/img/info2.png)
 我司6G边缘云可以在油轮，矿山，变电站，钻井平台，野外基地，工地，森林快速实现5G覆盖能力。
@@ -19,7 +19,7 @@ tags: [satellite]
 ------------
 
 
-**产品特性：**
+# 产品特性：
 
 - 采用商用级的5G基站和定制的高可用边缘云硬件
 - 碳纤维反射面拼瓣设计，组装方便、分解迅速
