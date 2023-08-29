@@ -3,6 +3,14 @@ layout: post
 title: 6G 边缘云
 subtitle: 订购请洽：sales@nomanland.tech
 categories: satellite
+banner:
+  image: assets/images/StockSnap_VIBDVY7EQJ.jpg
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
 tags: [边缘云]
 ---
 
