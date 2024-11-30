@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.opendc.cn/jekyll-theme-yat/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.opendc.cn/jekyll-theme-yat/" rel="alternate" type="text/html" hreflang="zh-CN" /><updated>2024-11-30T11:10:01+00:00</updated><id>https://www.opendc.cn/jekyll-theme-yat/feed.xml</id><title type="html">无人区科技南京有限公司</title><author><name>GitHub User</name></author><entry><title type="html">爱奇艺 5G 边缘云</title><link href="https://www.opendc.cn/jekyll-theme-yat/aiqiyi/2018/12/06/aiqiyi.html" rel="alternate" type="text/html" title="爱奇艺 5G 边缘云" /><published>2018-12-06T00:00:00+00:00</published><updated>2018-12-06T00:00:00+00:00</updated><id>https://www.opendc.cn/jekyll-theme-yat/aiqiyi/2018/12/06/aiqiyi</id><content type="html" xml:base="https://www.opendc.cn/jekyll-theme-yat/aiqiyi/2018/12/06/aiqiyi.html"><![CDATA[<h3 id="产品简介">产品简介:</h3>
+
+<p>OTT CDN，如爱奇艺、腾讯、阿里等CDN节点已经下沉到地市，如果移动网关还在骨干网位置，会导致传输浪费和 体验不佳，MEC部署到地市，可进一步降低传输迂回，降低时延，提升用户体验。</p>
+
+<p><img src="https://www.opendc.cn/assets/images/cdn.png" alt="" /></p>
+
+<p>CDN向最靠近用户的边缘网络下沉的产品， 定位于高校、酒店、商场、高铁以及部分国外运营商等中小ISP场景， 通过IOCP技术手段提升对应环境下”内网用户”的观影体验， 降低用户出口带宽压力。更可以通过定制播单方式，来引导网内用户点播定制内容。 不管是手机端、PAD端、VR设备还是智能电视/机顶盒，都能享受到高品质画面及流畅的观影体验。</p>
+
+<p><img src="https://www.opendc.cn/assets/images/aiqiyi-cdn.png" alt="" /></p>]]></content><author><name>GitHub User</name></author><category term="aiqiyi" /><category term="边缘云" /><summary type="html"><![CDATA[产品简介:]]></summary></entry><entry><title type="html">6G 边缘云</title><link href="https://www.opendc.cn/jekyll-theme-yat/satellite/2018/12/05/an-exhibit-of-markdown.html" rel="alternate" type="text/html" title="6G 边缘云" /><published>2018-12-05T00:00:00+00:00</published><updated>2018-12-05T00:00:00+00:00</updated><id>https://www.opendc.cn/jekyll-theme-yat/satellite/2018/12/05/an-exhibit-of-markdown</id><content type="html" xml:base="https://www.opendc.cn/jekyll-theme-yat/satellite/2018/12/05/an-exhibit-of-markdown.html"><![CDATA[<h3 id="产品简介">产品简介:</h3>
+<p><img src="https://www.opendc.cn/assets/images/info1.png" alt="" />
+<img src="https://www.opendc.cn/assets/images/info2.png" alt="" />
+我司6G边缘云可以在油轮，矿山，变电站，钻井平台，野外基地，工地，森林快速实现5G覆盖能力。</p>
+
+<p>采用0.5米智能化、集成化设计的便携式自动卫星通信设备做5G流量上行。对接业主的中心云，实现私有业务数据的5G网络快速覆盖。
+模块化的架构和易插拔的组件使该系统可以在几分钟内完全组装。
+通过 Ku 和 Ka 波段套件，该系统还可现场升级到 Ka 波段。
+适合于诸如石油和天然气勘探、灾难管理、急救通讯等领域。
+<img src="https://www.opendc.cn/assets/images/satellite.png" alt="" />
+————</p>
+
+<h3 id="产品特性">产品特性：</h3>
+
+<ul>
+  <li>采用商用级的5G基站和定制的高可用边缘云硬件</li>
+  <li>碳纤维反射面拼瓣设计，组装方便、分解迅速</li>
+  <li>模块化架构，简洁实现5G、4G的Ku 和 Ka 波段切换和融合通信</li>
+  <li>独创的对星算法和一流的伺服控制系统，确保快速精确对星</li>
+  <li>组装速度快，单人从开箱到6G业务开通只需 5 分钟，无需任何工具</li>
+</ul>]]></content><author><name>GitHub User</name></author><category term="satellite" /><category term="边缘云" /><summary type="html"><![CDATA[产品简介: 我司6G边缘云可以在油轮，矿山，变电站，钻井平台，野外基地，工地，森林快速实现5G覆盖能力。]]></summary></entry><entry><title type="html">AR/VR 5G 边缘云</title><link href="https://www.opendc.cn/jekyll-theme-yat/arvr/2018/12/04/arvr.html" rel="alternate" type="text/html" title="AR/VR 5G 边缘云" /><published>2018-12-04T00:00:00+00:00</published><updated>2018-12-04T00:00:00+00:00</updated><id>https://www.opendc.cn/jekyll-theme-yat/arvr/2018/12/04/arvr</id><content type="html" xml:base="https://www.opendc.cn/jekyll-theme-yat/arvr/2018/12/04/arvr.html"><![CDATA[<h3 id="产品简介">产品简介:</h3>
+
+<p>云VR有效解决了终端能力不足的问题，加速了VR产业的进展。VR的大带宽，低时延要求需要5G网络来承载，产业 预期2019年VR应用的需求大约是50Mbps带宽和约20ms时延，未来带宽需求会到200Mbps以上，时延在5ms左右。 譬如，在大型球赛直播现场，通过MEC平台，可以调取全景摄像头拍摄的视频进行清晰实时回放，观众可以通过VR 设备提升观看体验。同时，MEC的低时延高带宽特点可以有效解决观看VR时的眩晕感。</p>
+
+<p><img src="https://www.opendc.cn/assets/images/arvr.png" alt="" /></p>]]></content><author><name>GitHub User</name></author><category term="arvr" /><category term="边缘云" /><summary type="html"><![CDATA[产品简介:]]></summary></entry></feed>
